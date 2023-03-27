@@ -20,7 +20,7 @@ const Product = (props) => {
             <FontAwesomeIcon icon={faCartPlus} />
              </button>
         </div>
-        // jjjjjjjjjjjjjjjjjjjjjjjjj
+       
     );
 };
 
